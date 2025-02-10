@@ -28,7 +28,10 @@ Here you can find previews of different UI designs. 📸
 
 **🔽 File Manager Ui**
 
->![Screenshot 2025-02-11 005240](https://github.com/user-attachments/assets/fe2652b6-062b-40a4-b2cf-ae58b4e37b39) ![Screenshot 2025-02-11 005253](https://github.com/user-attachments/assets/16ad17c1-b68f-4487-a92f-1baa6df39409) ![Screenshot 2025-02-11 005305](https://github.com/user-attachments/assets/1229f432-dd68-4c6a-aa49-6a4960158213)
+>![Screenshot 2025-02-11 005240](https://github.com/user-attachments/assets/0b2c9dec-7794-4a2c-b9de-00992b9510db)
+![Screenshot 2025-02-11 005253](https://github.com/user-attachments/assets/45409a17-0395-43ee-8103-b403ccde10aa)
+![Screenshot 2025-02-11 005305](https://github.com/user-attachments/assets/38c79007-7a23-4266-830d-626487b92157)
+
 
 **🔽 Will upload other Ui later**
 
@@ -39,20 +42,28 @@ Here you can find previews of different UI designs. 📸
 ## 🛠️ Installation
 Follow these steps to set up the project on your local machine:
 
+
+ ##### Clone this repository
 ```sh
-# Clone this repository
-git clone https://github.com/aavvvacado/Crazyui_flutterapp.git
-
-# Navigate into the project directory
+git clone https://github.com/aavvvacado/CrazyUiforFlutterApp.git
+```
+ ##### Navigate into the project directory
+```sh
 cd Crazyui_flutterapp
+```
 
-# Navigate into the desired Ui project directory
-cd <directory_name>
-
-# Install dependencies
+ ##### Navigate into the desired Ui project directory
+ - for File Manger Ui
+```sh
+cd ui
+```
+ ##### Install dependencies
+```sh
 flutter pub get
+```
 
-# Run the app
+ ##### Run the app
+```sh
 flutter run
 ```
 
