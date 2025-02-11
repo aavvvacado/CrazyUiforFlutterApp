@@ -33,6 +33,11 @@ Here you can find previews of different UI designs. 📸
 ![Screenshot 2025-02-11 005305](https://github.com/user-attachments/assets/38c79007-7a23-4266-830d-626487b92157)
 
 
+**🔽 Weather Forcasting App ui**
+>![Screenshot 2025-02-11 183906](https://github.com/user-attachments/assets/b2b7cec8-166a-4040-8e4a-3e22f187e360)
+
+
+
 **🔽 Will upload other Ui later**
 
 
@@ -57,6 +62,12 @@ cd Crazyui_flutterapp
 ```sh
 cd ui
 ```
+
+ - for Weather Forcasting app Ui
+```sh
+cd waether_forcasting_app_ui
+```
+
  ##### Install dependencies
 ```sh
 flutter pub get
